@@ -1,1 +1,3 @@
-# palindromy
+#
+#Dokumentacja znajduje sie wewnatrz pliku main.
+#
